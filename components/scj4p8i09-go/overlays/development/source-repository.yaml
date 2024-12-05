@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: scj4p8i09-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/scj4p8i09-go
